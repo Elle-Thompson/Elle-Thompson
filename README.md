@@ -24,7 +24,7 @@
 
  </p> 
  
- ## Check out my portfolio <a href="https://www.ellethompson.com/"> Here </a>
+ ## Check out my portfolio <a href="https://www.ellethompson.com/"> here </a>
  
  
 <!--
