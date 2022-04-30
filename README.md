@@ -2,7 +2,7 @@
   
 # <p align="center"> 	Hi Friends! I'm Elle :grin: </p>				
 
-### <p align="center"> 	I'm a behavior technician turned software developer. I'm most passionate about building front-end web applications. Something about watching projects come to life is extremely satisfying. I hold a BA in psychology and have a history of working with underrepresented people. Now I love to work in the cross-section of social impact and software development. </p>
+### <p align="center"> 	I'm a behavior technician turned software developer. I'm most passionate about building frontend web applications. Something about watching projects come to life is extremely satisfying. I hold a BA in psychology and have a history of working with underrepresented people. Now I love to work in the cross-section of social impact and software development. </p>
 	 
 	 
 ## 
